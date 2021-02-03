@@ -12,7 +12,6 @@ void main(void) {
   result++;
   result++;
   result++;
-  result++;
 
   while (1);
 }
